@@ -1,7 +1,7 @@
 import telebot
 
 # Insert your bot token obtained from BotFather in Telegram
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '20139R48GTRF2O043G82F13D'
 bot = telebot.TeleBot(TOKEN)
 
 # Function to handle the /start command
